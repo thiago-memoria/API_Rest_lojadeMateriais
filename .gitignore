@@ -5,5 +5,12 @@ log/
 #Eclipse
 .classpath
 .project
-.settings/
 
+.DS_Store
+Servers/*
+.metadata
+.settings
+bin/
+rebel.xml
+.mvn*
+mvnw*
